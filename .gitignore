@@ -1,0 +1,5 @@
+# exclude directories from syncing to github
+plugins/
+themes/
+*.swp
+.DS_Store
